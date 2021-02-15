@@ -1,0 +1,11 @@
+
+
+<html>
+<head><title>RandoMongo</title></head>
+<body>
+  
+      <h2>Connecting to MongoDB Server <i>(192.168.0.13)</i>...</h2>
+  
+      <h2>Bravo!</h2>
+</body>
+</html>
